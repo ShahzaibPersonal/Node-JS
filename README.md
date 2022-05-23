@@ -1,4 +1,5 @@
 # Node-JS
+Node JS inables us to use JS outside brower and used at Server-side. It performs backend Actions on server side. 
 It includes following
 ## FileSystem  Module
 ## CommonJS Module Import
